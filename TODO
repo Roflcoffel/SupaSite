@@ -1,0 +1,43 @@
+---- Main Page ----
+Should contain total statistics: 
+- Best list    (Highest Ranking) (Per Person) (And Together)
+- Best Artist  - || -
+- Best Song    - || -
+- Highest Number of lists per year
+- Highest number of songs per year
+- Number of lists for each year
+---- Ranking ----
+Rank method 1: (Most Voted)
+Every song on a list gets a vote, position does not matter
+
+Rank Method 2: (Highest Ranked)
+Songs higher in a list gets more points
+
+
+---- Website Design ----
+Main page should only contain statistics shown above.
+Then a navbar to each year
+
+At each years webpage a stat view for just that year.
+and then the list should follow
+
+on the year page the lists should be display next to each other, like this:
+<Date>
+<Ante>            <Roy>
+1.                1. 
+2.                2.
+3.                3.
+4.                4.
+5.                5.
+
+Maybe some kind of tooltips on artist / songs that have many votes / high ranking.
+
+
+---- A Ranking Page ----- (Maybe)
+the ranking page should explain the ranking system and show the list with most votes and highest rank.
+
+
+
+---- Write a basic md to json converter in C# ----
+to do some statistic calculation we need the data to be in json
+should be so simple it is only applicable to my year files
