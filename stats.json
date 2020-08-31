@@ -94,7 +94,7 @@
 		"Roy":{
 			"number_of_lists": 21,
 			"number_of_entries": 118,
-			"total_songs": 0,
+			"total_songs": 82,
 			"total_artist": 67,
 			"most_ranked_artist": "Structures",
 			"most_ranked_artist_list": {
@@ -118,17 +118,23 @@
 				"For The Fallen Dreams": 10,
 				"My Bitter End": 10
 			},
-			"most_ranked_song": "Departure",
+			"most_ranked_song": "Transitions",
 			"most_ranked_song_list": {
-
+				"Transitions": 4,
+				"Beautiful World": 3,
+				"Since U Been Gone": 3,
+				"Haruka na hibi": 3
 			},
-			"top_song": "Departure",
+			"top_song": "Transitions",
 			"top_song_list": {
-				
+				"Transitions": 15,
+				"Since U Been Gone": 13,
+				"Decadence": 8,
+				"It Never Ends": 7,
+				"Irony": 7
 			}
-		}
-			
-
+		},
+		"2011"
 	}
 }
 
